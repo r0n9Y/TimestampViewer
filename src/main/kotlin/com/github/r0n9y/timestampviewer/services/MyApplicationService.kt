@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.r0n9y.timestampviewer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.r0n9y.timestampviewer.MyBundle
 
 class MyApplicationService {
 

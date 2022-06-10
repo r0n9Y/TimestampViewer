@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.r0n9y.timestampviewer.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.r0n9y.timestampviewer.MyBundle
 
 class MyProjectService(project: Project) {
 
